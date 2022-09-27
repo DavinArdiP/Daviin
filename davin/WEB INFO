@@ -1,0 +1,12 @@
+<html>
+<head>
+	<title> Web Program Sekolah</title>
+</head>
+<body>
+<center>
+	<h1> Web Informasi </h1><br>
+	<a href="Halaman Informasi Sekolah"><h3>Halaman Informasi Sekolah</h3></a>
+	<a href="Halaman_Jurusan.html"><h3>Halaman Informasi Jurusan</h3></a>
+	<a href="Halaman Informasi Sarana dan Prasarana"><h3>Halaman Informasi Sarana dan Prasarana</h3></a>
+ </center>
+ </html>
